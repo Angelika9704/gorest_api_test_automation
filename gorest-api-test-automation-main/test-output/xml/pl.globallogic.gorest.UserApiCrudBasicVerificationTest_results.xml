@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gorest-api-test-automation-main"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4,128">
+  <properties />
+  
+  
+            <testcase name="shouldFetchAllUsersFromDefaultPage" time="0,968" classname="pl.globallogic.gorest.UserApiCrudBasicVerificationTest" />
+                <testcase name="shouldCreateUserAndReturnId" time="1,021" classname="pl.globallogic.gorest.UserApiCrudBasicVerificationTest" />
+                <testcase name="shouldDeleteUserUsingId" time="0,960" classname="pl.globallogic.gorest.UserApiCrudBasicVerificationTest" />
+                <testcase name="userDataShouldContainId" time="0,523" classname="pl.globallogic.gorest.UserApiCrudBasicVerificationTest" />
+                <testcase name="shouldUpdateExistingUserWithNewData" time="0,656" classname="pl.globallogic.gorest.UserApiCrudBasicVerificationTest" />
+      
+</testsuite>
